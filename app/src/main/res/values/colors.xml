@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor_light">#F3F3F3</color>
+    <color name="primaryColorDark_light">#A7A7A7</color>
+    <color name="primaryAccent_light">#E3F2FD</color>
+    <color name="background_light">#E6E6E6</color>
+    <color name="text_normal_light">#686868</color>
+    <color name="text_hint_light">#6D686868</color>
+    <color name="text_dark_light">#000</color>
+    <color name="button_light">#FFFFFF</color>
+    <color name="button_text_light">#000</color>
+
+
+    <color name="primaryColor_console">#070707</color>
+    <color name="primaryColorDark_console">#727272</color>
+    <color name="primaryAccent_console">#FFEBEE</color>
+    <color name="background_console">#070707</color>
+    <color name="text_normal_console">#31B936</color>
+    <color name="text_hint_console">#7031B936</color>
+    <color name="text_dark_console">#268B29</color>
+    <color name="button_console">#31B936</color>
+    <color name="button_text_console">#fff</color>
+
+
+    <color name="primaryColor_navy">#3F51B5</color>
+    <color name="primaryColorDark_navy">#2D397E</color>
+    <color name="primaryAccent_navy">#DFD1F8</color>
+    <color name="background_navy">#3F51B5</color>
+    <color name="text_normal_navy">#fff</color>
+    <color name="text_hint_navy">#7AFFFFFF</color>
+    <color name="text_dark_navy">#EBE9E9</color>
+    <color name="button_navy">#fff</color>
+    <color name="button_text_navy">#3F51B5</color>
+
+</resources>

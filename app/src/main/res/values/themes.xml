@@ -1,0 +1,35 @@
+<resources>
+    <style name="AppTheme.Light" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/primaryColor_light</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark_light</item>
+        <item name="colorAccent">@color/primaryAccent_light</item>
+        <item name="backgroundColor">@color/background_light</item>
+        <item name="text_normal">@color/text_normal_light</item>
+        <item name="text_hint">@color/text_hint_light</item>
+        <item name="text_dark">@color/text_dark_light</item>
+        <item name="button_background">@color/button_light</item>
+        <item name="button_text">@color/button_text_light</item>
+    </style>
+    <style name="AppTheme.Console" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_console</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark_console</item>
+        <item name="colorAccent">@color/primaryAccent_console</item>
+        <item name="backgroundColor">@color/background_console</item>
+        <item name="text_normal">@color/text_normal_console</item>
+        <item name="text_hint">@color/text_hint_console</item>
+        <item name="text_dark">@color/text_dark_console</item>
+        <item name="button_background">@color/button_console</item>
+        <item name="button_text">@color/button_text_console</item>
+    </style>
+    <style name="AppTheme.Navy" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_navy</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark_navy</item>
+        <item name="colorAccent">@color/primaryAccent_console</item>
+        <item name="backgroundColor">@color/background_navy</item>
+        <item name="text_normal">@color/text_normal_navy</item>
+        <item name="text_hint">@color/text_hint_navy</item>
+        <item name="text_dark">@color/text_dark_navy</item>
+        <item name="button_background">@color/button_navy</item>
+        <item name="button_text">@color/button_text_navy</item>
+    </style>
+</resources>
